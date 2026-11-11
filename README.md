@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABP-Archmage
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning Flutter/Dart
+- 🌱 I’m currently learning Next.js and Ai Automation
 - 💞️ I’m looking to collaborate on ...
 
 <!---
